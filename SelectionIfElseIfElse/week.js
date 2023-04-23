@@ -1,5 +1,5 @@
 var prompt = require('prompt-sync')();
-var num = prompt("Enter num from 1 to 7 : ");
+var num = prompt("Enter num from 1 to 7 :- ");
 if (num == 1) console.log("Sunday");
 else if (num == 2) console.log("Monday");
 else if (num == 3) console.log("Tuesday");
